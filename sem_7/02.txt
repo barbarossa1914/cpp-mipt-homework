@@ -1,0 +1,7 @@
+int a               : 44 33 22 11
+int b               : 00 CA 9A 3B
+int c               : FF FF 00 00
+int d               : FF FF FF FF
+int array           : 0A 00 00 00 D0 07 00 00 FF FF 00 00
+char str            : 43 61 74 0A 44 6F 67 0A 00
+float x             : 00 00 80 3F
